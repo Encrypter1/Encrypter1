@@ -15,7 +15,7 @@
 
 
 
-[![card](https://github-readme-stats.vercel.app/api?username=Encrypter1&theme=Dark)](https://github.com/Encrypter1/) [![Encrypter1](https://github-readme-stats.vercel.app/api/top-langs/?username=Encrypter1&hide=html&layout=compact&theme=Dark)](https://github.com/Encrypter1/)
+[![card](https://github-readme-stats.vercel.app/api?username=Encrypter1&theme=dark)](https://github.com/Encrypter1/) [![Encrypter1](https://github-readme-stats.vercel.app/api/top-langs/?username=Encrypter1&hide=html&layout=compact&theme=dark)](https://github.com/Encrypter1/)
 
 ### ☎️ *Entrar em contato*:
 
