@@ -4,7 +4,7 @@
 ### *Sobre mim*:
 > Nome: Meu nome é Deivid Dias
 >
-> Idade: Tenho 17 anos
+> Idade: Tenho 18 anos
 >
 > Área: Desenvolvedor Python
 > 
